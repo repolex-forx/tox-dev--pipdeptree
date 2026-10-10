@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "pipdeptree",
+  "versions": [
+    {
+      "commit": "7f8d0b3c37cd15115bbc5f26f2c9e2dfdca61a75",
+      "tag": "4.2.6",
+      "parsed_at": "2026-10-10T22:17:15.373013+00:00"
+    }
+  ]
+}
