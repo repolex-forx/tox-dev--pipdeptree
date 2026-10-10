@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/pipdeptree/commit/7f8d0b3c37cd15115bbc5f26f2c9e2dfdca61a75",
       "git:hexsha": "7f8d0b3c37cd15115bbc5f26f2c9e2dfdca61a75",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "4.2.6"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "4.2.6",
+      "repolex:parsedAt": "2026-10-10T22:17:15.372120+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/pipdeptree/commit/0db3b7fc8d8834dda894386ed51832c6700ec574",
